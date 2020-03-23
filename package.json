@@ -1,15 +1,12 @@
 {
-  "name": "the-way",
-  "version": "0.0.2",
-  "description": "Known As The Way",
+  "name": "knownthailand",
+  "version": "0.0.1",
+  "description": "Known Thailand",
   "main": "main.js",
-  "repository": {
-    "type": "mercurial",
-    "url": "https://github.com/knownastheway/theway"
+  "scripts": {
+    "start": "npm i && node main.js"
   },
   "dependencies": {
-    "connect": "latest",
-    "constantinople": "^3.1.1",
     "cookie-parser": "^1.4.5",
     "ejs": "latest",
     "express": "latest",
