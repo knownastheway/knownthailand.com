@@ -1,7 +1,5 @@
 tasks:
   - init: npm start
-image:
-  file: .gitpod.Dockerfile
 github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
