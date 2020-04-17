@@ -1,7 +1,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/knownastheway/knownthailand.com)
 
 
-# [knownthailand.com](https://knownthailand.com)'s website
+# [knownthailand.com](https://knownthailand.com)'s webpage
 
 ### Getting Started Guide
 
