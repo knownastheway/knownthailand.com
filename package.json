@@ -1,19 +1,21 @@
 {
   "name": "knownthailand",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Known Thailand",
   "main": "main.js",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "start": "npm i && node main.js"
+    "build": "npm install --production",
+    "start": "npm install --production && node main.js"
   },
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "ejs": "latest",
     "express": "latest",
     "express-minify": "latest",
+    "lodash": "^4.17.20",
     "method-override": "^3.0.0",
     "morgan": "latest",
     "nodemailer": "latest",
