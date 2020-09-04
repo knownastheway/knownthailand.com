@@ -1,6 +1,7 @@
 {
   "name": "theway",
   "scripts": {
+    "start": "node main.js"
   },
   "env": {
   },

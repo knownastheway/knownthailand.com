@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Known Thailand",
   "main": "main.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "npm i && node main.js"
   },
