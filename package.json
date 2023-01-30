@@ -1,11 +1,8 @@
 {
   "name": "knownthailand",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Known Thailand",
   "main": "main.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "build": "npm install --production",
     "start": "npm install --production && node main.js"
