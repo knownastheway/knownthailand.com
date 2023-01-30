@@ -1,6 +1,6 @@
 {
   "name": "knownthailand",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Known Thailand",
   "main": "main.js",
   "engines": {
@@ -20,7 +20,7 @@
     "morgan": "latest",
     "nodemailer": "latest",
     "path": "latest",
-    "pug": "^2.0.4",
+    "pug": "^3.0.2",
     "uglify-js": "latest"
   }
 }
